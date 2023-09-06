@@ -1,5 +1,5 @@
-# PyAboidCarRacing
-<img src="start_score.png" width="400px" height="400px"><img src="final_score.png" width="400px" height="400px">
+# PyAvoidCarRacing
+<img src="start.png" width="200px" height="400px"><img src="playing.png" width="200px" height="400px"><img src="crash.png" width="200px" height="400px"><img src="game_over.png" width="200px" height="400px">
 ### 개요
 ![Langauge:Python](https://img.shields.io/badge/Language-Python-purple) ![platform:PyGame](https://img.shields.io/badge/Platform-PyGame-pink)
   -  파이레이싱 게임
