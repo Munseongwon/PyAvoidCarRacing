@@ -3,7 +3,7 @@
 ### 개요
 ![Langauge:Python](https://img.shields.io/badge/Language-Python-purple) ![platform:PyGame](https://img.shields.io/badge/Platform-PyGame-pink)
   -  파이레이싱 게임
-  -  2022.01.10 - 2022.01.11(제작기간)
+  -  2022.01.03 - 2022.01.10(제작기간)
 
 ### 사용한 라이브러리
   - pygame library
